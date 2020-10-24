@@ -1,0 +1,22 @@
+/Users/Duncan/Projects/Personal Practise/TriviaEventDelegateGame/TriviaEventDelegateGame/bin/Debug/netcoreapp3.1/TriviaEventDelegateGame
+/Users/Duncan/Projects/Personal Practise/TriviaEventDelegateGame/TriviaEventDelegateGame/bin/Debug/netcoreapp3.1/TriviaEventDelegateGame.deps.json
+/Users/Duncan/Projects/Personal Practise/TriviaEventDelegateGame/TriviaEventDelegateGame/bin/Debug/netcoreapp3.1/TriviaEventDelegateGame.runtimeconfig.json
+/Users/Duncan/Projects/Personal Practise/TriviaEventDelegateGame/TriviaEventDelegateGame/bin/Debug/netcoreapp3.1/TriviaEventDelegateGame.runtimeconfig.dev.json
+/Users/Duncan/Projects/Personal Practise/TriviaEventDelegateGame/TriviaEventDelegateGame/bin/Debug/netcoreapp3.1/TriviaEventDelegateGame.dll
+/Users/Duncan/Projects/Personal Practise/TriviaEventDelegateGame/TriviaEventDelegateGame/bin/Debug/netcoreapp3.1/TriviaEventDelegateGame.pdb
+/Users/Duncan/Projects/Personal Practise/TriviaEventDelegateGame/TriviaEventDelegateGame/obj/Debug/netcoreapp3.1/TriviaEventDelegateGame.csprojAssemblyReference.cache
+/Users/Duncan/Projects/Personal Practise/TriviaEventDelegateGame/TriviaEventDelegateGame/obj/Debug/netcoreapp3.1/TriviaEventDelegateGame.AssemblyInfoInputs.cache
+/Users/Duncan/Projects/Personal Practise/TriviaEventDelegateGame/TriviaEventDelegateGame/obj/Debug/netcoreapp3.1/TriviaEventDelegateGame.AssemblyInfo.cs
+/Users/Duncan/Projects/Personal Practise/TriviaEventDelegateGame/TriviaEventDelegateGame/obj/Debug/netcoreapp3.1/TriviaEventDelegateGame.dll
+/Users/Duncan/Projects/Personal Practise/TriviaEventDelegateGame/TriviaEventDelegateGame/obj/Debug/netcoreapp3.1/TriviaEventDelegateGame.pdb
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\TriviaEventDelegateGame\TriviaEventDelegateGame\bin\Debug\netcoreapp3.1\TriviaEventDelegateGame.exe
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\TriviaEventDelegateGame\TriviaEventDelegateGame\bin\Debug\netcoreapp3.1\TriviaEventDelegateGame.deps.json
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\TriviaEventDelegateGame\TriviaEventDelegateGame\bin\Debug\netcoreapp3.1\TriviaEventDelegateGame.runtimeconfig.json
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\TriviaEventDelegateGame\TriviaEventDelegateGame\bin\Debug\netcoreapp3.1\TriviaEventDelegateGame.runtimeconfig.dev.json
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\TriviaEventDelegateGame\TriviaEventDelegateGame\bin\Debug\netcoreapp3.1\TriviaEventDelegateGame.dll
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\TriviaEventDelegateGame\TriviaEventDelegateGame\bin\Debug\netcoreapp3.1\TriviaEventDelegateGame.pdb
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\TriviaEventDelegateGame\TriviaEventDelegateGame\obj\Debug\netcoreapp3.1\TriviaEventDelegateGame.csprojAssemblyReference.cache
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\TriviaEventDelegateGame\TriviaEventDelegateGame\obj\Debug\netcoreapp3.1\TriviaEventDelegateGame.AssemblyInfoInputs.cache
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\TriviaEventDelegateGame\TriviaEventDelegateGame\obj\Debug\netcoreapp3.1\TriviaEventDelegateGame.AssemblyInfo.cs
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\TriviaEventDelegateGame\TriviaEventDelegateGame\obj\Debug\netcoreapp3.1\TriviaEventDelegateGame.dll
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\TriviaEventDelegateGame\TriviaEventDelegateGame\obj\Debug\netcoreapp3.1\TriviaEventDelegateGame.pdb
